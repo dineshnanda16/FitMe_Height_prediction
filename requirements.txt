@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+pandas
+Pillow
+matplotlib
+gi
