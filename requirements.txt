@@ -1,12 +1,6 @@
-# Streamlit and essential libraries
-streamlit==1.39.0  # Adjust to the version you're using
-
-# PyTorch and torchvision
-torch==2.0.1  # Choose the appropriate version compatible with your code and Python version
-torchvision==0.15.2  # Make sure this version matches your torch version
-
-# Additional libraries
-Pillow==10.4.0  # For image processing
-numpy==1.23.5  # For numerical operations
-pandas==2.2.3  # For data manipulation
-matplotlib==3.9.2  # For any plotting needs
+streamlit==1.39.0
+torch==2.4.1  # Updated to a version compatible with your Python version
+torchvision==0.19.1  # Ensure this version is compatible with the updated torch version
+pandas==2.2.3
+Pillow==10.4.0
+matplotlib==3.9.2
